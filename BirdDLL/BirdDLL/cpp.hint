@@ -1,0 +1,2 @@
+#define BIRDDLL_API __declspec(dllexport)
+#define BIRDDLL_API __declspec(dllimport)
